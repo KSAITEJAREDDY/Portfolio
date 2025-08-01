@@ -20,7 +20,7 @@
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).
 - [Books I have read](#books-i-have-read).
 - [certificates](#certificates).
-- [Let's Connect](#Let's Connect).
+- [Let'sConnect](#Let'sConnect).
 
 ## About me
 

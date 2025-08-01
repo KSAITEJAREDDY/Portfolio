@@ -99,10 +99,8 @@ __Mind maps & diagrams__
 * Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing)
 
 
-## Examples of my work
- 
-**  Portfolio & Projects**
-🔗 GitHub Portfolio – Explore My Work
+## Portfolio & Projects
+GitHub Portfolio – [Explore My Work]( https://github.com/SaiTejaReddyK)
 Includes real-world test automation frameworks, sample API test suites, exploratory testing reports, and CI/CD pipeline setups with Allure & Jenkins integrations.
 
 ## Books I have read

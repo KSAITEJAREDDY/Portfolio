@@ -19,7 +19,7 @@
 - [Future Goals & Learning Path](#FutureGoals&LearningPath).
 - [Books I have read](#books-i-have-read).
 - [certificates](#certificates).
-- [Let's-Connect](#Let's-connect).
+- [Let's-connect](#Let's-connect).
   
 ## About me
 

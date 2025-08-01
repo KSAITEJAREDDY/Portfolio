@@ -1,9 +1,5 @@
 # Portfolio
-<img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/f63e9124-5380-4708-bfb8-942393d5af5c" />  <img width="1100" height="723" alt="image" src="https://github.com/user-attachments/assets/22b32d70-7e8f-454d-9494-144a3e5d45d2" />
-
-
-
-
+ <img width="1100" height="723" alt="image" src="https://github.com/user-attachments/assets/22b32d70-7e8f-454d-9494-144a3e5d45d2" />
 
 
 - [About me](#about-me)
@@ -39,6 +35,9 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 • Security & Data Compliance: GDPR, OWASP, Burp Suite
 • Teamwork & Leadership: University project team leadership experience
 
+<img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/f63e9124-5380-4708-bfb8-942393d5af5c" /> 
+
+
 __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
@@ -68,8 +67,6 @@ __Python fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
-
-## Tools
 
 __TestRail__
   * know how to create test cases and test suits

@@ -53,7 +53,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 > I believe quality is not just about finding bugs — it's about preventing them. My approach focuses on **shift-left testing**, deep collaboration with developers, and **test automation as a core part of the development process**, not an afterthought. I strive to blend **business understanding with technical skills**, ensuring that each release is stable, secure, and user-centric.
 
-## 🚧 Real-WorldProblemsISolved
+## 🚧Real-WorldProblemsISolved
 
 * **Cut regression time by 60%** by implementing parallel test execution in Jenkins pipelines using Selenium Grid.
 * **Eliminated repetitive manual testing** by building a scalable API test suite with RestAssured, reducing release cycle stress.
@@ -62,7 +62,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 * **Enabled early defect detection** by integrating test automation into pull request pipelines on GitHub Actions.
 
 
-## 📁 SampleProjects 
+## 📁SampleProjects 
 
 ## 🔹 Selenium-Cucumber Framework (Java)
 

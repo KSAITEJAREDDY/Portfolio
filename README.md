@@ -193,7 +193,7 @@ __Mind maps & diagrams__
 ## Certificates
 [ISTQB Foundation Level](https://drive.google.com/file/d/1E0jkLNEZGqqz83muZ5Cd0h_GL3avLIut/view?usp=drive_link).
 
-## Let'sConnect
+### Let'sConnect
 *I’m actively seeking new challenges in QA Engineering, particularly roles focused on automation, DevOps-integrated testing, or API performance/security validation. Feel free to connect via email or GitHub!
 
 

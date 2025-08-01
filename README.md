@@ -7,6 +7,7 @@
 - [QA Philosophy](#QAPhilosophy).
 - [Real-World Problems I Solved](#Real-WorldProblemsISolved).
 - [Sample Projects](#SampleProjects).
+- [What Sets Me Apart](#WhatSetsMeApart).
 - 
 ## About me
 

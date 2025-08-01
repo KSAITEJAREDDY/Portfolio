@@ -16,8 +16,8 @@
 - [Types of Testing Performed](#TypesofTestingPerformed).
 - [Testimonials or Feedback](#TestimonialsorFeedback).
 - [Examples of my work](#examples-of-my-work).
-- [Future Goals & Learning Path](#FutureGoals&LearningPath).
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).
+- [Future Goals & Learning Path](#FutureGoals&LearningPath).
 - [Books I have read](#books-i-have-read).
 - [certificates](#certificates).
 - [Let's Connect](#Let'sConnect).

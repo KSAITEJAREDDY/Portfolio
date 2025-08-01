@@ -101,7 +101,9 @@ __Mind maps & diagrams__
 
 ## Examples of my work
  
- [My Projects](https://github.com/SaiTejaReddyk?tab=repositories).
+**  Portfolio & Projects**
+🔗 GitHub Portfolio – Explore My Work
+Includes real-world test automation frameworks, sample API test suites, exploratory testing reports, and CI/CD pipeline setups with Allure & Jenkins integrations.
 
 ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.

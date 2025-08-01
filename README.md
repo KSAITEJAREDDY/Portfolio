@@ -1,7 +1,6 @@
 # Portfolio
  <img width="1100" height="723" alt="image" src="https://github.com/user-attachments/assets/22b32d70-7e8f-454d-9494-144a3e5d45d2" />
 
-
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)

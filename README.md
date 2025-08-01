@@ -14,7 +14,7 @@
 - [Metrics That Matter](#Metrics That Mattert).
 - [ToolsinAction–RealUseCases](#Tools in Action – Real Use Cases).
 - [TypesofTestingPerformed](#Types of Testing Performed).
-- [TestimonialsorFeedback ](#Testimonials or Feedback).
+- [Testimonials or Feedback ](#Testimonials or Feedback).
 - [Examples of my work](#examples-of-my-work).
 - [Future Goals & Learning Path](#Future Goals & Learning Path).
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).

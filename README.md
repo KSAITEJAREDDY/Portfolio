@@ -25,15 +25,15 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 [You can download my CV here](https://drive.google.com/file/d/1tD9Cki862cr0b1q49axX5l09rC5eq3zF/view?usp=drive_link).
 
 ## Skills
-• Proficiency in Testing Tools: Selenium, Cypress, JMeter, Postman, RestAssured, TestNG, Jenkins, OWASP ZAP
-• Functional and Non-Functional Testing
-• Programming & Scripting: Java, C#, Python, Bash, PowerShell, JavaScript, SQL
-• IDEs: Eclipse, Visual Studio, IntelliJ
-• Project Management: Agile, Scrum, Jira, Bugzilla
-• CI/CD & Cloud: Jenkins, AWS, Kubernetes, Docker, GitHub
-• Communication & Presentation: Test reports, defect analysis, stakeholder engagement
-• Security & Data Compliance: GDPR, OWASP, Burp Suite
-• Teamwork & Leadership: University project team leadership experience
+*  Proficiency in Testing Tools: Selenium, Cypress, JMeter, Postman, RestAssured, TestNG, Jenkins, OWASP ZAP
+* Functional and Non-Functional Testing
+* Programming & Scripting: Java, C#, Python, Bash, PowerShell, JavaScript, SQL
+* IDEs: Eclipse, Visual Studio, IntelliJ
+* Project Management: Agile, Scrum, Jira, Bugzilla
+* CI/CD & Cloud: Jenkins, AWS, Kubernetes, Docker, GitHub
+* Communication & Presentation: Test reports, defect analysis, stakeholder engagement
+* Security & Data Compliance: GDPR, OWASP, Burp Suite
+* Teamwork & Leadership: University project team leadership experience
 
 <img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/f63e9124-5380-4708-bfb8-942393d5af5c" /> 
 

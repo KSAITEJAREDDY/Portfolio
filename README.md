@@ -22,6 +22,7 @@
 - [certificates](#certificates).
 - [Let's Connect](#Let'sConnect).
 
+
 ## About me
 
 I am a detail-oriented and solution-driven individual with a unique blend of technical expertise and strong interpersonal skills. My foundation in Electrical and Electronics Engineering, combined with hands-on experience in both manual and automation testing, allows me to approach problems with analytical precision and user-centric thinking.
@@ -193,7 +194,7 @@ __Mind maps & diagrams__
 ## Certificates
 [ISTQB Foundation Level](https://drive.google.com/file/d/1E0jkLNEZGqqz83muZ5Cd0h_GL3avLIut/view?usp=drive_link).
 
-## Let'sConnect
+## Let's Connect
 I’m actively seeking new challenges in QA Engineering, particularly roles focused on automation, DevOps-integrated testing, or API performance/security validation. Feel free to connect via email or GitHub!
 
 

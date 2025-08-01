@@ -25,7 +25,7 @@ Currently, I am further refining my skills in areas like performance testing, se
 I am now eager to apply my accumulated knowledge and passion for quality assurance in a dynamic team setting. My goal is to grow into a lead-level QA role, driving both innovation and efficiency in software testing over the next few years
 
 ## CV
-[You can download my CV here]_(https://drive.google.com/file/d/1tD9Cki862cr0b1q49axX5l09rC5eq3zF/view?usp=drive_link)
+[You can download my CV here](https://drive.google.com/file/d/1tD9Cki862cr0b1q49axX5l09rC5eq3zF/view?usp=drive_link).
 
 ## Skills
 • Proficiency in Testing Tools: Selenium, Cypress, JMeter, Postman, RestAssured, TestNG, Jenkins, OWASP ZAP

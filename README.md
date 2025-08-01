@@ -12,9 +12,9 @@
 - [Blog / Knowledge Sharing](#Blog / Knowledge Sharing).
 - [Test Strategy Highlights](#Test Strategy Highlights).
 - [Metrics That Matter](#Metrics That Mattert).
-- [Tools in Action – Real Use Cases](#Tools in Action – Real Use Cases).
-- [Types of Testing Performed](#Types of Testing Performed).
-- [Testimonials or Feedback ](#Testimonials or Feedback).
+- [ToolsinAction–RealUseCases](#Tools in Action – Real Use Cases).
+- [TypesofTestingPerformed](#Types of Testing Performed).
+- [TestimonialsorFeedback ](#Testimonials or Feedback).
 - [Examples of my work](#examples-of-my-work).
 - [Future Goals & Learning Path](#Future Goals & Learning Path).
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).

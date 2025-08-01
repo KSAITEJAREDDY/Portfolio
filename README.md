@@ -100,7 +100,7 @@ __Mind maps & diagrams__
 
 
 ## Portfolio & Projects
-GitHub Portfolio – [Explore My Work]( https://github.com/SaiTejaReddyK)
+GitHub Portfolio – [Explore My Work]( https://github.com/SaiTejaReddyK).
 Includes real-world test automation frameworks, sample API test suites, exploratory testing reports, and CI/CD pipeline setups with Allure & Jenkins integrations.
 
 ## Books I have read

@@ -53,7 +53,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 > I believe quality is not just about finding bugs — it's about preventing them. My approach focuses on **shift-left testing**, deep collaboration with developers, and **test automation as a core part of the development process**, not an afterthought. I strive to blend **business understanding with technical skills**, ensuring that each release is stable, secure, and user-centric.
 
-## 🚧 Real-World Problems I Solved
+## 🚧 Real-WorldProblemsISolved
 
 * **Cut regression time by 60%** by implementing parallel test execution in Jenkins pipelines using Selenium Grid.
 * **Eliminated repetitive manual testing** by building a scalable API test suite with RestAssured, reducing release cycle stress.
@@ -62,7 +62,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 * **Enabled early defect detection** by integrating test automation into pull request pipelines on GitHub Actions.
 
 
-## 📁 Sample Projects 
+## 📁 SampleProjects 
 
 ## 🔹 Selenium-Cucumber Framework (Java)
 
@@ -80,7 +80,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 > Load test scripts for high-traffic REST APIs, simulating up to 1,000 concurrent users. Includes results analysis and tuning suggestions.
 
-## 🏆 What Sets Me Apart
+## 🏆WhatSetsMeApart
 
 * I **speak both developer and tester** — making me effective in Agile teams
 * I treat **test automation like software development**, with maintainable and scalable code
@@ -89,14 +89,14 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 * I bring **a global perspective**, having worked with teams in the UK, India, and remotely across time zones
 
 
-## 📖 Blog / Knowledge Sharing 
+## 📖Blog/KnowledgeSharing 
 
 * “Designing Reliable Selenium Frameworks in Java”
 * “Getting Started with API Testing: Postman vs RestAssured”
 * “How I Integrated Cypress Tests into GitHub Actions”
 * “Exploratory Testing: Going Beyond the Test Case”
 
-## 🔍 Test Strategy Highlights
+## 🔍TestStrategyHighlights
 
 > Every project demands a custom approach. I focus on designing **risk-based, scalable, and maintainable testing strategies** that align with both business goals and tech constraints.
 
@@ -104,7 +104,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 * **Data-Driven Testing**: Used Excel/CSV-based datasets and parameterized scripts to validate edge cases and boundary conditions.
 * **Hybrid Automation Strategy**: Combined **UI + API** automation to catch backend issues early and validate UI consistency.
 
-## 📊 Metrics That Matter
+## 📊MetricsThatMatter
 
 Real QA value lies in measurable outcomes. Here are a few metrics I've influenced in past roles:
 
@@ -115,7 +115,7 @@ Real QA value lies in measurable outcomes. Here are a few metrics I've influence
 | Manual effort in UAT        | High       | Low      | Offloaded 70% to automated tests  |
 | Bug reproducibility rate    | \~50%      | 95%+     | Improved through detailed reports |
 
-## 🔧 Tools in Action – Real Use Cases
+## 🔧ToolsinAction–RealUseCases
 
 **Jira**
 
@@ -128,7 +128,7 @@ Real QA value lies in measurable outcomes. Here are a few metrics I've influence
 > Built containerized test environments to simulate microservices and ensure stable integration testing.
 
 
-## 🧩 Types of Testing Performed
+## 🧩TypesofTestingPerformed
 
 * ✅ **Functional Testing** – Core workflows, business rules, and user scenarios
 * 🔁 **Regression Testing** – Automated sanity suites triggered on every PR/merge
@@ -139,7 +139,7 @@ Real QA value lies in measurable outcomes. Here are a few metrics I've influence
 * 🛡️ **Security Testing** – Used OWASP ZAP and Burp Suite to scan for vulnerabilities
 * ♿ **Accessibility Testing** – Automated audits with Axe-core, manual checks via screen readers
 
-## ✨ Testimonials or Feedback 
+## ✨ TestimonialsorFeedback 
 
 > “Sai Teja's automation framework helped us reduce our release cycle time significantly.”
 > — QA Lead, TrinitySoft
@@ -151,7 +151,7 @@ Real QA value lies in measurable outcomes. Here are a few metrics I've influence
 > — Freelance Client (via Upwork)
 
 
-## 🔮 Future Goals & Learning Path
+## 🔮FutureGoals&LearningPath
 
 > I’m constantly learning and upgrading my skills. Currently exploring:
 
@@ -170,7 +170,7 @@ __Mind maps & diagrams__
 * Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing)
 
 
-## Portfolio & Projects
+## Portfolio&Projects
 GitHub Portfolio – [Explore My Work](https://github.com/SaiTejaReddyK).
 Includes real-world test automation frameworks, sample API test suites, exploratory testing reports, and CI/CD pipeline setups with Allure & Jenkins integrations.
 

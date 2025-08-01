@@ -92,10 +92,10 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 ## 📖Blog/KnowledgeSharing 
 
-* Designing Reliable Selenium Frameworks in Java
-* Getting Started with API Testing: Postman vs RestAssured
-* How I Integrated Cypress Tests into GitHub Actions
-* Exploratory Testing: Going Beyond the Test Case
+* "Designing Reliable Selenium Frameworks in Java"
+* "Getting Started with API Testing: Postman vs RestAssured"
+* "How I Integrated Cypress Tests into GitHub Actions"
+* "Exploratory Testing: Going Beyond the Test Case"
 
 ## 🔍TestStrategyHighlights
 

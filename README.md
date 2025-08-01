@@ -14,7 +14,7 @@
 - [Tools in Action– Real Use Cases](#ToolsinAction–RealUseCases).
 - [Types of Testing Performed](#TypesofTestingPerformed).
 - [Testimonials or Feedback](#TestimonialsorFeedback).
-- [Examples of my work](#examples-of-my-work).
+- [Portfolio & Projects](#Portfolio&Projects).
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).
 - [Future Goals & Learning Path](#FutureGoals&LearningPath).
 - [Books I have read](#books-i-have-read).

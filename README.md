@@ -91,7 +91,7 @@ __Mind maps & diagrams__
 
 ## Examples of my work
  
- [My Projects]_(#https://github.com/KSAITEJAREDDY?tab=repositories)
+ [My Projects] (https://github.com/KSAITEJAREDDY?tab=repositories).
 
 ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
@@ -110,7 +110,7 @@ __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
 ## Courses and Certificates
-[ISTQB Foundation Level]_(#https://drive.google.com/file/d/1E0jkLNEZGqqz83muZ5Cd0h_GL3avLIut/view?usp=drive_link)
+[ISTQB Foundation Level] (https://drive.google.com/file/d/1E0jkLNEZGqqz83muZ5Cd0h_GL3avLIut/view?usp=drive_link).
 
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  

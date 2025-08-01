@@ -106,7 +106,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 ## 📊MetricsThatMatter
 
-Real QA value lies in measurable outcomes. Here are a few metrics I've influenced in past roles:
+*Real QA value lies in measurable outcomes. Here are a few metrics I've influenced in past roles:
 
 | Metric                      | Before     | After    | Impact                            |
 | --------------------------- | ---------- | -------- | --------------------------------- |

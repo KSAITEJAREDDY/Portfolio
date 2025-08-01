@@ -50,7 +50,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 
 ## 🧠QAPhilosophy
 
-> I believe quality is not just about finding bugs — it's about preventing them. My approach focuses on **shift-left testing**, deep collaboration with developers, and **test automation as a core part of the development process**, not an afterthought. I strive to blend **business understanding with technical skills**, ensuring that each release is stable, secure, and user-centric.
+> I believe quality is not just about finding bugs - it's about preventing them. My approach focuses on **shift-left testing**, deep collaboration with developers, and **test automation as a core part of the development process**, not an afterthought. I strive to blend **business understanding with technical skills**, ensuring that each release is stable, secure, and user-centric.
 
 ## 🚧Real-WorldProblemsISolved
 

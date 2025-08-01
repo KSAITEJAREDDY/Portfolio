@@ -5,8 +5,6 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
 ## About me
@@ -93,7 +91,7 @@ __Mind maps & diagrams__
 
 ## Examples of my work
  
- [My Projects] (https://github.com/KSAITEJAREDDY?tab=repositories)
+ [My Projects]_(#https://github.com/KSAITEJAREDDY?tab=repositories)
 
 ## Books I have read
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
@@ -111,7 +109,8 @@ __Trello and Notion__
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
-## Courses
+## Courses and Certificates
+[ISTQB Foundation Level]_(#https://drive.google.com/file/d/1E0jkLNEZGqqz83muZ5Cd0h_GL3avLIut/view?usp=drive_link)
 
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
@@ -128,8 +127,4 @@ __Onboarding to Testing · Jedi Point__
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
-
-## Examples of my work
-
 

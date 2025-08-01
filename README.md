@@ -152,7 +152,7 @@ Real QA value lies in measurable outcomes. Here are a few metrics I've influence
 > — Freelance Client (via Upwork)
 
 
-## 🔮FutureGoals&LearningPath
+## 🔮Future Goals & Learning Path
 
 > I’m constantly learning and upgrading my skills. Currently exploring:
 

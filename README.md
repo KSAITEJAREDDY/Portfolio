@@ -5,22 +5,22 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
-- [QA Philosophy](#QA Philosophy).
-- [Real-World Problems I Solved](#Real-World Problems I Solved).
-- [Sample Projects](#Sample Projects).
-- [What Sets Me Apart](#What Sets Me Apart).
-- [Blog / Knowledge Sharing](#Blog / Knowledge Sharing).
-- [Test Strategy Highlights](#Test Strategy Highlights).
-- [Metrics That Matter](#Metrics That Mattert).
-- [ToolsinAction–RealUseCases](#Tools in Action – Real Use Cases).
-- [TypesofTestingPerformed](#Types of Testing Performed).
-- [Testimonials or Feedback ](#Testimonials or Feedback).
+- [QA Philosophy](#QAPhilosophy).
+- [Real-World Problems I Solved](#Real-WorldProblemsISolved).
+- [Sample Projects](#SampleProjects).
+- [What Sets Me Apart](#WhatSetsMeApart).
+- [Blog / Knowledge Sharing](#Blog/KnowledgeSharing).
+- [Test Strategy Highlights](#TestStrategyHighlights).
+- [Metrics That Matter](#MetricsthatMattert).
+- [Tools in Action– Real Use Cases](#ToolsinAction–RealUseCases).
+- [Types of Testing Performed](#TypesofTestingPerformed).
+- [Testimonials or Feedback](#TestimonialsorFeedback).
 - [Examples of my work](#examples-of-my-work).
-- [Future Goals & Learning Path](#Future Goals & Learning Path).
+- [Future Goals & Learning Path](#FutureGoals&LearningPath).
 - [Mindmaps and diagrams](#mindmaps-and-diagrams).
 - [Books I have read](#books-i-have-read).
 - [certificates](#certificates).
-- [Let'sConnect](#Let'sConnect).
+- [Let's Connect](#Let'sConnect).
 
 ## About me
 

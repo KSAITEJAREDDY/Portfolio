@@ -77,8 +77,7 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 * I always consider **performance, security, and accessibility** as part of quality
 * I bring **a global perspective**, having worked with teams in the UK, India, and remotely across time zones
 
-
-## 📖Blog/KnowledgeSharing 
+## 📖Blog / Knowledge Sharing 
 
 * "Designing Reliable Selenium Frameworks in Java"
 * "Getting Started with API Testing: Postman vs RestAssured"

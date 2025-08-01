@@ -104,7 +104,7 @@ GitHub Portfolio – [Explore My Work](https://github.com/SaiTejaReddyK).
 Includes real-world test automation frameworks, sample API test suites, exploratory testing reports, and CI/CD pipeline setups with Allure & Jenkins integrations.
 
 ## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+__"Testing dot com"__ R.Savin 2017 - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
 

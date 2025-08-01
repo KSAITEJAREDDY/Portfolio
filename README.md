@@ -6,7 +6,6 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
 - * [Mindmaps and diagrams](#mindmaps-and-diagrams)
 - [Books I have read](#books-i-have-read)

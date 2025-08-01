@@ -49,11 +49,11 @@ I am now eager to apply my accumulated knowledge and passion for quality assuran
 <img width="515" height="532" alt="image" src="https://github.com/user-attachments/assets/f63e9124-5380-4708-bfb8-942393d5af5c" /> 
 
 **
-##🧠 QA Philosophy**
+## 🧠 QA Philosophy**
 
 > I believe quality is not just about finding bugs — it's about preventing them. My approach focuses on **shift-left testing**, deep collaboration with developers, and **test automation as a core part of the development process**, not an afterthought. I strive to blend **business understanding with technical skills**, ensuring that each release is stable, secure, and user-centric.
 
-##**🚧 Real-World Problems I Solved**
+## **🚧 Real-World Problems I Solved**
 
 * **Cut regression time by 60%** by implementing parallel test execution in Jenkins pipelines using Selenium Grid.
 * **Eliminated repetitive manual testing** by building a scalable API test suite with RestAssured, reducing release cycle stress.

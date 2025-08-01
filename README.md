@@ -7,21 +7,7 @@
 - [QA Philosophy](#QAPhilosophy).
 - [Real-World Problems I Solved](#Real-WorldProblemsISolved).
 - [Sample Projects](#SampleProjects).
-- [What Sets Me Apart](#WhatSetsMeApart).
-- [Blog / Knowledge Sharing](#Blog/KnowledgeSharing).
-- [Test Strategy Highlights](#TestStrategyHighlights).
-- [Metrics That Matter](#MetricsthatMattert).
-- [Tools in Action– Real Use Cases](#ToolsinAction–RealUseCases).
-- [Types of Testing Performed](#TypesofTestingPerformed).
-- [Testimonials or Feedback](#TestimonialsorFeedback).
-- [Portfolio & Projects](#Portfolio&Projects).
-- [Mindmaps and diagrams](#mindmaps-and-diagrams).
-- [Future Goals & Learning Path](#FutureGoals&LearningPath).
-- [Books I have read](#books-i-have-read).
-- [certificates](#certificates).
-- [Let's Connect](#Let'sConnect).
-
-
+- 
 ## About me
 
 I am a detail-oriented and solution-driven individual with a unique blend of technical expertise and strong interpersonal skills. My foundation in Electrical and Electronics Engineering, combined with hands-on experience in both manual and automation testing, allows me to approach problems with analytical precision and user-centric thinking.

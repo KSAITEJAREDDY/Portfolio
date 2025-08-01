@@ -8,6 +8,8 @@
 - [Real-World Problems I Solved](#Real-WorldProblemsISolved).
 - [Sample Projects](#SampleProjects).
 - [What Sets Me Apart](#WhatSetsMeApart).
+- [Blog / Knowledge Sharing](#Blog/KnowledgeSharing).
+
 - 
 ## About me
 
